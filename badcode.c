@@ -4,16 +4,13 @@
 #include <math.h>
 
 int main() {
-   //declaring the variables
+
    const float R = 6371.01;
    const float PI = 3.141592654;
    float s_lat, s_long, e_lat, e_long, D;
    char choice;
    do
-   {   //printing intro messages
-       /*printf(" This program calculates the distance between two places on Earth: \n");
-       printf(" ================================================================= \n");
-       printf("\n");*/
+   {
 
             printf(" Please enter the latitude and longitude : \n");
             printf(" Input s_lat: ");
