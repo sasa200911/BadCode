@@ -1,5 +1,5 @@
 Shams Al Farees
-CS-348 01, 02, 03 — Spring 2019
-professor Karl R. Wurst
+CS-348, Spring 2019
+Professor: Karl R. Wurst
 Worcester State University
 Clean Code - Base Assignment
