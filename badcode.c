@@ -12,7 +12,7 @@ int main() {
    do
    {   //printing intro messages
        printf(" This program calculates the distance between two places on Earth: \n");
-       printf(" =================================================================== \n");
+       printf(" ==================================================================== \n");
        printf("\n");
 
        //starting the inputs
